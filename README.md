@@ -51,6 +51,9 @@ This document presents the conceptual background and early-stage implementations
 Its aim is to reconnect fragmented knowledge and reconsider the nature of human thought.
 Through the design of environments in which thought emerges from experience, it records the possibility of a shift — from the accumulation of knowledge to the generation of understanding.
 
+It should not be understood as a device or interface,
+but as a framework for structuring human thought.
+
 ## 1. Question (Introduction)
 
 Can human thought evolve?
