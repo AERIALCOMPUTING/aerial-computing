@@ -1,3 +1,14 @@
+## Can Human Thought Evolve?
+## — AERIAL COMPUTING as an Experiential System
+
+AERIAL COMPUTING is not a technology,  
+but a way of structuring thought through experience.
+
+## Transforming air into a computational domain  
+## — where thought begins as experience
+
+---
+
 ## Records
 
 - PRWIRE (Japanese Original)  
@@ -19,12 +30,6 @@ and associated visual materials for long-term reference.
 
 Shigeki Uetabira  
 https://www.aerialtenor.com/
-
-## Can Human Thought Evolve?
-## — AERIAL COMPUTING as an Experiential System
-
-## Transforming air into a computational domain
-## — where thought begins as experience
 
 <img width="2048" height="1881" alt=" Experiential" src="https://github.com/user-attachments/assets/8e0e1d09-04ed-4506-b151-a3fbba87a508" />
 
