@@ -11,8 +11,8 @@ but a way of structuring thought through experience.
 
 ## Records
 
-- PRWIRE (Japanese Original)  
-[URL]
+- PRWIRE (Japanese Original)
+https://kyodonewsprwire.jp/release/202604107211
 
 - Medium (English Version)  
 https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
