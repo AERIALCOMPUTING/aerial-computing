@@ -14,13 +14,13 @@ but a way of structuring thought through experience.
 The concept of AERIAL COMPUTING has been publicly documented since April 8, 2026, in the following sources:
 
 - PRWIRE (Japanese original release):  
-  https://kyodonewsprwire.jp/release/202604107211
+https://kyodonewsprwire.jp/release/202604107211
 
 - Medium (English article):  
-  https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
+https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
 
 - GitHub (Concept archive):  
-  https://github.com/AERIALCOMPUTING/aerial-computing
+https://github.com/AERIALCOMPUTING/aerial-computing
 
 ---
 
@@ -87,6 +87,8 @@ There was a time when knowledge was integrative, as symbolized by figures such a
 Today, opportunities to encounter such modes of thinking are limited.
 
 ## 3. Definition
+
+AERIAL COMPUTING is a conceptual framework that transforms physical space into an aerial domain for cognitive and experiential understanding, where human thought emerges directly through interaction within this domain rather than through traditional screen-based interfaces.
 
 AERIAL COMPUTING is not a technology for presenting information.
 It is an environment that generates changes in understanding and cognition through experience.
