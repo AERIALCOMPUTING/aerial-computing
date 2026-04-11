@@ -103,7 +103,7 @@ A structure becoming visible
 
 Early-stage implementations of this concept can already be observed in real-world contexts.
 
-An installation at the Kagoshima Municipal Science Center serves as one such environment for validating the concept.
+An installation at the Kagoshima Municipal Science Hall serves as one such environment for validating the concept.
 Children extend their hands into the air, observe, and experiment — forming understanding through their own actions.
 
 What is designed here is not the act of “touching information,”
