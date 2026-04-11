@@ -336,3 +336,9 @@ Aerial Tenor
 
 
 https://www.aerialtenor.com/
+
+## Citation
+
+If you reference this concept, please cite:
+
+Uetabira, Shigeki. "Aerial Computing: A Conceptual Framework for Cognitive and Experiential Space." 2026.
