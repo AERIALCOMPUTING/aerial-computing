@@ -9,13 +9,18 @@ but a way of structuring thought through experience.
 
 ---
 
-## Records
+## Publication Record
 
-- PRWIRE (Japanese Original)
-https://kyodonewsprwire.jp/release/202604107211
+The concept of AERIAL COMPUTING has been publicly documented since April 8, 2026, in the following sources:
 
-- Medium (English Version)  
-https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
+- PRWIRE (Japanese original release):  
+  https://kyodonewsprwire.jp/release/202604107211
+
+- Medium (English article):  
+  https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
+
+- GitHub (Concept archive):  
+  https://github.com/AERIALCOMPUTING/aerial-computing
 
 ---
 
