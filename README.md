@@ -44,6 +44,15 @@ Transforming air into a computational domain
 This document records a state of thought and implementation as of April 8, 2026.
 It is not intended for immediate understanding or evaluation, but to be reinterpreted over time.
 
+## Origin
+
+The concept of AERIAL COMPUTING was proposed and developed by Shigeki Uetabira as an experiential and cognitive framework for structuring human thought through physical space.
+
+## First Publication
+
+The concept of AERIAL COMPUTING was first publicly documented on April 8, 2026, through publications including PRWIRE (Japanese), Medium (English), and GitHub.
+
+
 ## Abstract
 
 This document presents the conceptual background and early-stage implementations of “AERIAL COMPUTING,” a framework that treats air as a new computational domain.
