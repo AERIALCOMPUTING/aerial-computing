@@ -55,6 +55,8 @@ The concept of AERIAL COMPUTING was first publicly documented on April 8, 2026, 
 
 ## Abstract
 
+AERIAL COMPUTING is a conceptual framework that transforms physical space into an aerial domain for cognitive and experiential understanding, where human thought emerges directly through interaction within this domain rather than through traditional screen-based interfaces.
+
 This document presents the conceptual background and early-stage implementations of “AERIAL COMPUTING,” a framework that treats air as a new computational domain.
 
 Its aim is to reconnect fragmented knowledge and reconsider the nature of human thought.
