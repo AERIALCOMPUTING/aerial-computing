@@ -1,8 +1,7 @@
-## Can Human Thought Evolve?
+# Can Human Thought Evolve?
 ## — AERIAL COMPUTING as an Experiential System
 
-AERIAL COMPUTING is not a technology,  
-but a way of structuring thought through experience.
+AERIAL COMPUTING is not a technology, but a way of structuring thought through experience.
 
 ## Transforming air into a computational domain  
 ## — where thought begins as experience
@@ -14,15 +13,14 @@ but a way of structuring thought through experience.
 The concept of AERIAL COMPUTING has been publicly documented since April 8, 2026, in the following sources:
 
 - PRWIRE (Japanese original release):  
-https://kyodonewsprwire.jp/release/202604107211
+  https://kyodonewsprwire.jp/release/202604107211
 
 - Medium (English article):  
-https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
+  https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
 
 - GitHub (Concept archive):  
-https://github.com/AERIALCOMPUTING/aerial-computing
-
----
+  https://github.com/AERIALCOMPUTING/aerial-computing
+  
 
 ## Archive
 
@@ -233,18 +231,6 @@ Interman — https://www.interman.jp/
 Aerial Computer — https://www.aerialcomputer.com/
 
 ARUKI — https://www.aruki.art/
-
-
-- PRWIRE (Japanese original release):  
-  https://kyodonewsprwire.jp/release/202604107211
-  
-
-- Medium (English article):  
-  https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
-  
-
-- GitHub (Concept archive):  
-  https://github.com/AERIALCOMPUTING/aerial-computing
 
 — -
 
