@@ -232,11 +232,17 @@ Aerial Computer — https://www.aerialcomputer.com/
 
 ARUKI — https://www.aruki.art/
 
-PRWIRE (Japanese Original)
-[PRのURL]
 
-GitHub (Concept Archive)
-[GitHubのURL]
+- PRWIRE (Japanese original release):  
+  https://kyodonewsprwire.jp/release/202604107211
+  
+
+- Medium (English article):  
+  https://medium.com/@shigearukyo/can-human-thought-evolve-a-record-of-aerial-computing-f3db93a4c23c
+  
+
+- GitHub (Concept archive):  
+  https://github.com/AERIALCOMPUTING/aerial-computing
 
 — -
 
