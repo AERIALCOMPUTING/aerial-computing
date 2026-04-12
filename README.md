@@ -3,6 +3,8 @@
 
 AERIAL COMPUTING is not a technology, but a way of structuring thought through experience.
 
+It is not tied to any specific device or display technology.
+
 ## Transforming air into a computational domain  
 ## — where thought begins as experience
 
