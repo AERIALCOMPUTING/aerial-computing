@@ -4,9 +4,9 @@
 
 ## Definition
 
-AERIAL COMPUTING is a framework for structuring human thought through spatial experience, not a technology or interface.
+## Definition
 
-It is not tied to any specific device or display technology.
+AERIAL COMPUTING is a framework for structuring human thought through spatial experience, not a technology or interface.
 
 ---
 
@@ -17,6 +17,8 @@ AERIAL COMPUTING is not a technology for presenting information, but an environm
 In this environment, actions such as touching, moving, and observing are continuous rather than separate. Understanding is not given externally, but emerges from within experience itself.
 
 Transforming air into a computational domain — where thought begins as experience.
+
+It is not tied to any specific device or display technology.
 
 ---
 
