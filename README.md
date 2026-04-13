@@ -1,9 +1,8 @@
 # Can Human Thought Evolve?
 ## AERIAL COMPUTING as an Experiential System
 
-AERIAL COMPUTING is not a technology, but a way of structuring thought through experience.
-
-It is not tied to any specific device or display technology.
+## Definition
+AERIAL COMPUTING is a framework for structuring human thought through spatial experience, not a technology or interface.
 
 ## Transforming air into a computational domain  
 ## — where thought begins as experience
