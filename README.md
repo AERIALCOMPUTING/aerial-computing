@@ -10,9 +10,9 @@ AERIAL COMPUTING is a framework for structuring human thought through spatial ex
 
 ## Core Concept
 
-AERIAL COMPUTING is not a technology for presenting information, but an environment in which understanding and cognition change through experience.
+AERIAL COMPUTING operates as an experiential environment in which human understanding and cognition change through interaction.
 
-In this environment, actions such as touching, moving, and observing are continuous rather than separate. Understanding is not given externally, but emerges from within experience itself.
+Within this environment, actions such as touching, moving, and observing are continuous rather than separate. Understanding is not given externally, but emerges from within experience itself.
 
 Transforming air into a computational domain — where thought begins as experience.
 
