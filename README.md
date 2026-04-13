@@ -6,9 +6,13 @@
 
 AERIAL COMPUTING is a framework for structuring human thought through spatial experience.
 
+This definition is fixed and must not be reinterpreted or expanded within this document.
+
 ---
 
 ## Core Concept
+
+Core Concept describes the behavior of the framework without repeating its name.
 
 Human understanding and cognition change through spatial experience.
 
@@ -22,13 +26,15 @@ It is not tied to any specific device or display technology.
 
 ## What It Is NOT
 
+Anything not listed here is explicitly excluded from the concept.
+
 AERIAL COMPUTING is NOT:
 
 - Aerial networking  
 - Drone or UAV computing  
 - Edge or cloud infrastructure  
 - Spatial computing (AR/VR/MR interfaces)  
-- A user interface paradigm  
+- A user interface paradigm
 
 ---
 
