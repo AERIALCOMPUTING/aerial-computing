@@ -42,6 +42,8 @@ AERIAL COMPUTING is NOT:
 - Spatial computing (AR/VR/MR interfaces)  
 - A user interface paradigm
 
+Any prior or existing use of the term "Aerial Computing" in networking, UAV, or infrastructure contexts.
+
 ---
 
 ## Publication Record
