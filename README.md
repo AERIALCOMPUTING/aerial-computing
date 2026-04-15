@@ -1,4 +1,4 @@
-# AERIAL COMPUTING— Official Concept Record
+# AERIAL COMPUTING — Official Concept Record
 
 ---
 
@@ -10,6 +10,7 @@ AERIAL COMPUTING is a framework for structuring human thought through spatial ex
 Concept Identifier: AC-2026-04-08
 
 This definition is fixed and must not be reinterpreted or expanded within this document.
+
 AERIAL COMPUTING defines cognition as emerging from continuous spatial interaction, rather than symbolic processing alone.
 
 ---
