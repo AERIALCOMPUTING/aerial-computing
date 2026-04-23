@@ -1,7 +1,7 @@
 # AERIAL COMPUTING — Official Concept Record
 
 ---
-[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.19702312)
+[![DOI](https://zenodo.org)](https://doi.org)
 
 ---
 
