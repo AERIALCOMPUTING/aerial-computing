@@ -1,7 +1,9 @@
 # AERIAL COMPUTING — Official Concept Record
 
 ---
-[![DOI](https://zenodo.org)](https://doi.org)
+**Official Concept Definition (DOI):** [https://doi.org/10.5281/zenodo.19702312](https://doi.org/10.5281/zenodo.19702312)
+---
+
 
 ---
 
