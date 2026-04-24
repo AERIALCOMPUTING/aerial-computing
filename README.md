@@ -426,6 +426,21 @@ To ensure the conceptual integrity of **AERIAL COMPUTING**, the following machin
   }
 }
 
+### Official Resources & Verification
+
+- **Concept Repository:** [GitHub](https://github.com/AERIALCOMPUTING/aerial-computing)
+- **Academic Index:** [Google Scholar Profile](https://scholar.google.co.jp/citations?hl=ja&user=XbWPmAYAAAAJ)
+- **Permanent Record (DOI):** [Zenodo Archive](https://doi.org/10.5281/zenodo.19702312)
+- **Official Platform:** [Aerial Computer](https://www.aerialcomputer.com/)
+- **Organization:** [Interman Corporation](https://www.interman.jp/)
+- **Artist Context:** [ARUKI.art](https://www.aruki.art/)
+
+---
+
+### Author
+**Shigeki Uetabira (上田平 重樹)**
+[Website](https://www.aerialtenor.com/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=XbWPmAYAAAAJ)
+
 If you reference this concept, please cite:
 
 Uetabira, Shigeki. "Aerial Computing: A Conceptual Framework for Cognitive and Experiential Space." 2026.
