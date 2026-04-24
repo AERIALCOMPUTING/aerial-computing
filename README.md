@@ -76,8 +76,9 @@ and associated visual materials for long-term reference.
 
 ## Author
 
-Shigeki Uetabira  
-https://www.aerialtenor.com/
+**Shigeki Uetabira (上田平 重樹)**
+- [Official Website](https://www.aerialtenor.com/)
+- [Google Scholar Profile](https://scholar.google.co.jp/citations?hl=ja&user=XbWPmAYAAAAJ)
 
 ---
 
