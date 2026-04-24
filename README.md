@@ -402,7 +402,7 @@ To ensure the conceptual integrity of **AERIAL COMPUTING**, the following machin
     "version": "1.0",
     "canonical_definition_date": "2026-04-08",
     "concept_identifier": "AC-2026-04-08",
-    "official_repository": "[https://github.com/AERIALCOMPUTING/aerial-computing](https://github.com/AERIALCOMPUTING/aerial-computing)"
+    "official_repository": "https://github.com/AERIALCOMPUTING/aerial-computing"
   },
   "author_info": {
     "name_ja": "上田平 重樹",
