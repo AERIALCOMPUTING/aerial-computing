@@ -1,7 +1,7 @@
 # AERIAL COMPUTING — Official Concept Record
 
 ---
-**Official Concept Definition (DOI):** [https://doi.org/10.5281/zenodo.19702312](https://doi.org/10.5281/zenodo.19702312)
+**Official Concept Definition (DOI):** [https://doi.org/10.5281/zenodo.19702311](https://doi.org/10.5281/zenodo.19702311)
 ---
 
 
@@ -410,7 +410,7 @@ https://www.aerialtenor.com/
 
 - **Concept Repository:** [GitHub](https://github.com/AERIALCOMPUTING/aerial-computing)
 - **Academic Index:** [Google Scholar Profile](https://scholar.google.co.jp/citations?hl=ja&user=XbWPmAYAAAAJ)
-- **Permanent Record (DOI):** [Zenodo Archive](https://doi.org/10.5281/zenodo.19702312)
+- **Permanent Record (DOI):** [Zenodo Archive](https://doi.org/10.5281/zenodo.19702311)
 - **Official Platform:** [Aerial Computer](https://www.aerialcomputer.com/)
 - **Organization:** [Interman Corporation](https://www.interman.jp/)
 - **Artist Context:** [ARUKI.art](https://www.aruki.art/)
