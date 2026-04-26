@@ -58,7 +58,7 @@ This work does NOT refer to aerial computing in the context of:
 
 These domains focus on infrastructure and communication systems.
 
-****In contrast, AERIAL COMPUTING in this work is defined as a cognition-centered spatial framework focused on human experience and embodied interaction, rather than infrastructure or communication systems.****
+In contrast, AERIAL COMPUTING in this work is defined as a cognition-centered spatial framework focused on human experience and embodied interaction, rather than infrastructure or communication systems.
 
 ---
 
