@@ -36,19 +36,37 @@ It is not tied to any specific device or display technology.
 
 ---
 
-## What It Is NOT
+## Concept Structure
 
-Anything not listed here is explicitly excluded from the concept.
+AERIAL COMPUTING is organized as a layered system:
 
-AERIAL COMPUTING is NOT:
+* Concept: AERIAL COMPUTING (cognition framework)
+* Intelligence: CURIOSITY AI (companion intelligence)
+* Interface: Spatial Interaction (embodied interaction layer)
+* Implementation: AERIAL COMPUTER (system realization)
 
-- Aerial networking  
-- Drone or UAV computing  
-- Edge or cloud infrastructure  
-- Spatial computing (AR/VR/MR interfaces)  
-- A user interface paradigm
+This structure separates definition, intelligence, interaction, and implementation.
 
-Any prior or existing use of the term "Aerial Computing" in networking, UAV, or infrastructure contexts.
+---
+
+## Disambiguation
+
+This work does NOT refer to aerial computing in the context of:
+
+* UAV / drone systems
+* network or edge computing infrastructure
+
+These domains focus on infrastructure and communication systems.
+
+**In contrast, AERIAL COMPUTING in this work is defined as a cognition-centered spatial framework focused on human experience and embodied interaction.**
+
+---
+
+## Clarification
+
+For a detailed comparison with existing uses of the term "Aerial Computing", see:
+
+👉 [Difference from Existing Aerial Computing](./difference.md)
 
 ---
 
