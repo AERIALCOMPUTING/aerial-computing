@@ -10,6 +10,8 @@
 
 ## Definition
 
+Field: Cognitive Framework / Spatial Interaction
+
 Canonical Definition (v1.0, April 8, 2026):
 AERIAL COMPUTING is a framework for structuring human thought through spatial experience.
 
